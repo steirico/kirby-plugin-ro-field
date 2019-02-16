@@ -5,7 +5,7 @@ Kirby::plugin('steirico/kirby-plugin-ro-field', [
         'ro' => [
             'props' => [
                 'value' => function($value = null) {
-                    return kirbytext($this->value);
+                    return $this->value;
                 }
             ]
         ]
