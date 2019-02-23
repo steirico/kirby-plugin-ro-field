@@ -1,0 +1,26 @@
+{
+    "name": "steirico/kirby-plugin-ro-field",
+    "description": "A read-only field for kirby3.",
+    "version": "2.0.0",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "keywords": [
+        "kirby3",
+        "plugin",
+        "field",
+        "ro", "readonly", "read-only", "read only"
+    ],
+    "authors": [
+        {
+            "name": "Rico Steiner",
+            "email": "rico@vweb.ch",
+            "role": "Developer"
+        }
+    ],
+
+    "autoload": {
+        "files": [
+            "config.php"
+        ]
+    }
+}

@@ -1,5 +1,5 @@
 # Kirby Read-Only Field Plugin
-This field allows to display a `kirbytext` interpreted value in the panel. The value cannot be changed in the panel.
+This field allows to display a value in the panel in a read-only fashion.
 
 ## Installation
 Use one of the alternatives below.
